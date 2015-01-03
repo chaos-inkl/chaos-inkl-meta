@@ -1,0 +1,15 @@
+[submodule "formulare"]
+	path = formulare
+	url = https://github.com/chaos-inkl/formulare.git
+[submodule "design"]
+	path = design
+	url = https://github.com/chaos-inkl/design.git
+[submodule "ordnungen"]
+	path = ordnungen
+	url = https://github.com/chaos-inkl/ordnungen.git
+[submodule "korrespondenz"]
+	path = korrespondenz
+	url = https://github.com/chaos-inkl/korrespondenz.git
+[submodule "protokolle"]
+	path = protokolle
+	url = https://github.com/chaos-inkl/protokolle.git
